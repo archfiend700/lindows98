@@ -1,2 +1,9 @@
 # lindows98
-Portfolio, retro website
+A retro style portfolio website
+
+Windows98 lookalike
+
+
+HTML & Javascript
+
+
